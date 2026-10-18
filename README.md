@@ -1,2 +1,0 @@
-# pikapikel
-Sample Website
